@@ -33,3 +33,6 @@
 8. 更多请查阅人脸识别完整SDK：https://github.com/AnyLifeZLB/FaceVerificationSDK
 9. 了解Demo 后还有问题需要定制解决请联系微信 18707611416 或邮件anylife.zlb@gmail.com
 10. 双目摄像头活体检测需要定制，Demo 暂时不接入
+
+<img width="1263" alt="《让子弹飞》- 谁是马邦德？" src="https://github.com/user-attachments/assets/59a871f5-09f0-43d9-9a5c-d2482099721e" />
+
