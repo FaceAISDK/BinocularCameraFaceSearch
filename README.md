@@ -25,7 +25,7 @@ Umbrella FaceAI SDK on_device Offline Android Face Detection 、Recognition 、L
 </div>
 
 
-## 当前版本说明 V1.9.3 (建议升级到GitHub Demo版本)
+## 当前版本20250304 说明 V1.9.3 (建议升级到GitHub Demo版本)
 - 删除不需要权限，上架Google Play认证
 - 优化光线不佳活体检测和录入人脸活体校验
 - 优化SDK体验，支持自定义管理摄像头
